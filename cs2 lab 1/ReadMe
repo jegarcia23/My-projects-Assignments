@@ -1,0 +1,5 @@
+The input file, input.txt, will have 12 lines, one line for each month. Each line will have
+three columns, tab-separated: the index of the month starting at 1 (1 is January, 2 is February, etc.), the
+average windspeed (mph: miles per hour) of the month, and the average rainfall (in inch) of that month.
+The output of the programs should have the average windspeed of the year, the months that had more than the average windspeed and their indeces.
+As well as what was the average rainfall and which months had more than the average rainfall and their indeces.

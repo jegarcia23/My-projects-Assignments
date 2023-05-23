@@ -1,0 +1,129 @@
+---------After merge:---------
+
+Name: bob
+id: 1
+
+Name: jose
+id: 2
+
+Name: jose
+id: 2
+
+Name: alex
+id: 3
+
+Name: hannah
+id: 4
+
+Name: neven
+id: 5
+
+Name: angel
+id: 7
+
+Name: angel
+id: 7
+
+Name: eve
+id: 8
+
+-----After adding new node in sorted order:----
+
+Name: mateo
+id: 0
+
+Name: bob
+id: 1
+
+Name: jose
+id: 2
+
+Name: jose
+id: 2
+
+Name: alex
+id: 3
+
+Name: hannah
+id: 4
+
+Name: neven
+id: 5
+
+Name: sillis
+id: 6
+
+Name: angel
+id: 7
+
+Name: angel
+id: 7
+
+Name: eve
+id: 8
+
+-----After deleting duplicates:-----
+
+Name: mateo
+id: 0
+
+Name: bob
+id: 1
+
+Name: jose
+id: 2
+
+Name: alex
+id: 3
+
+Name: hannah
+id: 4
+
+Name: neven
+id: 5
+
+Name: sillis
+id: 6
+
+Name: angel
+id: 7
+
+Name: eve
+id: 8
+
+----------After reverse:----------
+
+Name: eve
+id: 8
+
+Name: angel
+id: 7
+
+Name: sillis
+id: 6
+
+Name: neven
+id: 5
+
+Name: hannah
+id: 4
+
+Name: alex
+id: 3
+
+Name: jose
+id: 2
+
+Name: bob
+id: 1
+
+Name: mateo
+id: 0
+
+----------Palindromic Names:----------
+
+eve is Palindrome
+sillis is Palindrome
+neven is Palindrome
+hannah is Palindrome
+bob is Palindrome

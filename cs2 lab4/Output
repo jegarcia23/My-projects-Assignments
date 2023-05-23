@@ -1,0 +1,354 @@
+Printing the Linked List
+Name: Jose
+id: 301
+Hours worked: 27.5
+Hourly wage: 10.0
+Years worked: 3
+
+Name: Alex
+id: 102
+Hours worked: 40.0
+Hourly wage: 9.25
+Years worked: 5
+
+Name: Lucia
+id: 712
+Hours worked: 25.0
+Hourly wage: 9.25
+Years worked: 4
+
+Name: Mateo
+id: 434
+Hours worked: 50.0
+Hourly wage: 8.0
+Years worked: 2
+
+Name: Paula
+id: 560
+Hours worked: 20.0
+Hourly wage: 8.5
+Years worked: 6
+
+Name: Angel
+id: 327
+Hours worked: 42.5
+Hourly wage: 10.0
+Years worked: 8
+--------------------------------------
+
+Adding a new person at position 0
+
+Printing the Linked List
+
+Name: newPerson_1
+id: 888
+Hours worked: 8.8
+Hourly wage: 8.0
+Years worked: 8
+
+Name: Jose
+id: 301
+Hours worked: 27.5
+Hourly wage: 10.0
+Years worked: 3
+
+Name: Alex
+id: 102
+Hours worked: 40.0
+Hourly wage: 9.25
+Years worked: 5
+
+Name: Lucia
+id: 712
+Hours worked: 25.0
+Hourly wage: 9.25
+Years worked: 4
+
+Name: Mateo
+id: 434
+Hours worked: 50.0
+Hourly wage: 8.0
+Years worked: 2
+
+Name: Paula
+id: 560
+Hours worked: 20.0
+Hourly wage: 8.5
+Years worked: 6
+
+Name: Angel
+id: 327
+Hours worked: 42.5
+Hourly wage: 10.0
+Years worked: 8
+--------------------------------------
+
+Adding a new person at position 3
+
+Printing the Linked List
+
+Name: newPerson_1
+id: 888
+Hours worked: 8.8
+Hourly wage: 8.0
+Years worked: 8
+
+Name: Jose
+id: 301
+Hours worked: 27.5
+Hourly wage: 10.0
+Years worked: 3
+
+Name: Alex
+id: 102
+Hours worked: 40.0
+Hourly wage: 9.25
+Years worked: 5
+
+Name: newPerson_2
+id: 666
+Hours worked: 6.6
+Hourly wage: 6.0
+Years worked: 6
+
+Name: Lucia
+id: 712
+Hours worked: 25.0
+Hourly wage: 9.25
+Years worked: 4
+
+Name: Mateo
+id: 434
+Hours worked: 50.0
+Hourly wage: 8.0
+Years worked: 2
+
+Name: Paula
+id: 560
+Hours worked: 20.0
+Hourly wage: 8.5
+Years worked: 6
+
+Name: Angel
+id: 327
+Hours worked: 42.5
+Hourly wage: 10.0
+Years worked: 8
+--------------------------------------
+
+Deleting a person from position 3
+
+Printing the Linked List
+
+Name: newPerson_1
+id: 888
+Hours worked: 8.8
+Hourly wage: 8.0
+Years worked: 8
+
+Name: Jose
+id: 301
+Hours worked: 27.5
+Hourly wage: 10.0
+Years worked: 3
+
+Name: Alex
+id: 102
+Hours worked: 40.0
+Hourly wage: 9.25
+Years worked: 5
+
+Name: Lucia
+id: 712
+Hours worked: 25.0
+Hourly wage: 9.25
+Years worked: 4
+
+Name: Mateo
+id: 434
+Hours worked: 50.0
+Hourly wage: 8.0
+Years worked: 2
+
+Name: Paula
+id: 560
+Hours worked: 20.0
+Hourly wage: 8.5
+Years worked: 6
+
+Name: Angel
+id: 327
+Hours worked: 42.5
+Hourly wage: 10.0
+Years worked: 8
+--------------------------------------
+
+Deleting a person from position 0
+
+Printing the Linked List
+
+Name: Jose
+id: 301
+Hours worked: 27.5
+Hourly wage: 10.0
+Years worked: 3
+
+Name: Alex
+id: 102
+Hours worked: 40.0
+Hourly wage: 9.25
+Years worked: 5
+
+Name: Lucia
+id: 712
+Hours worked: 25.0
+Hourly wage: 9.25
+Years worked: 4
+
+Name: Mateo
+id: 434
+Hours worked: 50.0
+Hourly wage: 8.0
+Years worked: 2
+
+Name: Paula
+id: 560
+Hours worked: 20.0
+Hourly wage: 8.5
+Years worked: 6
+
+Name: Angel
+id: 327
+Hours worked: 42.5
+Hourly wage: 10.0
+Years worked: 8
+--------------------------------------
+
+The person worked most years: 
+Name: Angel years: 8
+--------------------------------------
+
+The person worked least years: 
+Name: Mateo years: 2
+--------------------------------------
+
+Average number of hours each person worked on the firm 
+34.166666666666664
+--------------------------------------
+
+Total payment amount for each person based on hoursWorked and hourlyWage: 
+Name: Jose
+Hourse Worked: 27.5
+Payment: 275.0
+
+Name: Alex
+Hourse Worked: 40.0
+Payment: 370.0
+
+Name: Lucia
+Hourse Worked: 25.0
+Payment: 231.25
+
+Name: Mateo
+Hourse Worked: 50.0
+Payment: 480.0
+
+Name: Paula
+Hourse Worked: 20.0
+Payment: 170.0
+
+Name: Angel
+Hourse Worked: 42.5
+Payment: 450.0
+
+--------------------------------------
+
+If you try to add an id that already exists, your program should display:
+
+Adding Failed. Id already exist in the Linked List
+Printing the Linked List
+
+Name: Jose
+id: 301
+Hours worked: 27.5
+Hourly wage: 10.0
+Years worked: 3
+
+Name: Alex
+id: 102
+Hours worked: 40.0
+Hourly wage: 9.25
+Years worked: 5
+
+Name: Lucia
+id: 712
+Hours worked: 25.0
+Hourly wage: 9.25
+Years worked: 4
+
+Name: Mateo
+id: 434
+Hours worked: 50.0
+Hourly wage: 8.0
+Years worked: 2
+
+Name: Paula
+id: 560
+Hours worked: 20.0
+Hourly wage: 8.5
+Years worked: 6
+
+Name: Angel
+id: 327
+Hours worked: 42.5
+Hourly wage: 10.0
+Years worked: 8
+--------------------------------------
+
+A successful person addition should look like this:
+
+Adding a new person at position 4
+
+Printing the Linked List
+
+Name: Jose
+id: 301
+Hours worked: 27.5
+Hourly wage: 10.0
+Years worked: 3
+
+Name: Alex
+id: 102
+Hours worked: 40.0
+Hourly wage: 9.25
+Years worked: 5
+
+Name: Lucia
+id: 712
+Hours worked: 25.0
+Hourly wage: 9.25
+Years worked: 4
+
+Name: Mateo
+id: 434
+Hours worked: 50.0
+Hourly wage: 8.0
+Years worked: 2
+
+Name: newPerson_4
+id: 103
+Hours worked: 8.8
+Hourly wage: 8.0
+Years worked: 8
+
+Name: Paula
+id: 560
+Hours worked: 20.0
+Hourly wage: 8.5
+Years worked: 6
+
+Name: Angel
+id: 327
+Hours worked: 42.5
+Hourly wage: 10.0
+Years worked: 8

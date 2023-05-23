@@ -279,11 +279,11 @@ public class Lab4_Garcia_Jose{
 			}
 			//if statement to get the payment of each person of hours higher than 40 
 			else if (current.hoursWorked > 40 ){
-				paymentPerson = 40 * current.wage;
+				paymentPerson = 40 * current.hourlyWage;
 				//Initiating variable for the overtime 
 				double overtime = current.hoursWorked - 40;
 				//variable to get the final payment including the overtime 
-				double finalPayment = ((overtime * current.wage ) * 2 ) + paymentPerson;
+				double finalPayment = ((overtime * current.hourlyWage ) * 2 ) + paymentPerson;
 				System.out.println("Name: " + current.getName());
 				System.out.println("Hours Worked: " + current.hoursWorked);
 				System.out.println("Payment: " + finalPayment);

@@ -1,0 +1,3 @@
+On this lab we have have a input file containing the width,length,and height of boxes.Each box must be considered an object
+I randomized the circumference of the ball and with that I need t find the box more suitable for the ball.
+Lab3_Garcia_Jose is the main class and the one with the output.

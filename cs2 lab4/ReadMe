@@ -1,0 +1,4 @@
+On this lab i practiced with LinkedList we used an input file. Each person in the input file is considered an object.
+After that we create a LinkedList with the person's object.
+The program should add and delete persons objects as well as see who worked the most and least years 
+and the average hours worked in the week.

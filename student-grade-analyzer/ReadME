@@ -1,0 +1,3 @@
+Academic Performance Analyzer that examines students grades in multiple courses. The project will analyze grades and provide insight into student 
+achievement and areas of improvement. My program will have a csv file that contains data with columns for Student ID, Course Name, Assignment Grade,
+Exams Grades. It will also contain txt file with teachers comments of each student formatted with the student id and feedback along side it.
